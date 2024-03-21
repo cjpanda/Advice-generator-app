@@ -72,7 +72,7 @@ function App() {
         </a>
         . Coded by{" "}
         <a className="text-accent opacity-80" href="https://github.com/cjpanda">
-          Cjpanda_dev
+          CeejayDevlab
         </a>
         .
       </div>
